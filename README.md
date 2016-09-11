@@ -1,20 +1,9 @@
 ## Installation
 
-If you have the node package manager, npm, installed:
-
-```shell
-npm install sfinktah/WebMidiEvents
-cd node_modules/webmidievents
-npm test
-```
-
-Or via git
-
-```shell
-git clone https://github.com/sfinktah/WebMidiEvents.git
-cd WebMidiEvents
-npm install
-npm test
-```
+just clone and host
 
 ## Getting Started
+
+Example is very simple, first three knobs control 3 variables for red green and blue.
+
+You can work the rest out from the source.
